@@ -1,25 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Round 3 Day 0: 1 March, 2017
+<!-- ##### (delete me or comment me out) -->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Watched about 30 minutes of Brad Traversy's Udemy course on JavaScript and worked on the UI of my weather app. I also cloned this repository, in the Terminal of course, and made a commit.  I really enjoy using the terminal. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+This is actually my thrid round of 100 Days of Code!  I haven't made it to 100 days on my previous attempts.  I hope this might be the round I make it, but in any event, I can see my skills and understanding develop. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I am really enjoying delving deeper into JavaScript. It's like magic!  
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Weather App - In Progress](https://codepen.io/mrjaypeasmith/pen/KyJYrB)
 
 
-### Day 1: June 27, Monday
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -27,4 +20,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
