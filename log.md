@@ -11,6 +11,13 @@ This is actually my thrid round of 100 Days of Code!  I haven't made it to 100 d
 
 **Link to work:** [Weather App - In Progress](https://codepen.io/mrjaypeasmith/pen/KyJYrB)
 
+### Round 3 Day 1: 2 March, 2017
+
+**Today's Progress**: Watched more  of Brad Traversy's Udemy course on JavaScript.  Added some extra lines of code to my get weather function.  It's getting easier to navigate around and be creative with it.  Found a great color palette generator. 
+
+**Thoughts:** I think writing out a plan for my projects would keep me from procrastinating.  I use ToDoist to manage lots of other tasks, so will populate workflows there rather than using another app such as Trello - even though I'm sure it's good, I'm going for digital minimialism. 
+
+**Link to resource:** [Color palette finder](https://coolors.co/55dde0-33658a-2f4858-f6ae2d-f26419)
 
 <!-- ### Day 1: June 27, Monday
 
