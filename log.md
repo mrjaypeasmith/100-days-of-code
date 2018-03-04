@@ -13,11 +13,22 @@ This is actually my thrid round of 100 Days of Code!  I haven't made it to 100 d
 
 ### Round 3 Day 1: 2 March, 2017
 
-**Today's Progress**: Watched more  of Brad Traversy's Udemy course on JavaScript.  Added some extra lines of code to my get weather function.  It's getting easier to navigate around and be creative with it.  Found a great color palette generator. 
+**Today's Progress**: Watched more of Brad Traversy's Udemy course on JavaScript.  Added some extra lines of code to my get weather function.  It's getting easier to navigate around and be creative with it.  Found a great color palette generator. 
 
 **Thoughts:** I think writing out a plan for my projects would keep me from procrastinating.  I use ToDoist to manage lots of other tasks, so will populate workflows there rather than using another app such as Trello - even though I'm sure it's good, I'm going for digital minimialism. 
 
 **Link to resource:** [Color palette finder](https://coolors.co/55dde0-33658a-2f4858-f6ae2d-f26419)
+
+### Round 3 Day 2: 3 March, 2017
+
+**Today's Progress**: Made some excellent progress with my Weather App.  I wrote a function to toggle between Celsius and Fahrenheit, solivng the problem myself.  There is probably a better way to do it (of course jQuery has it built in) but I like it and it works! I also found some excellent icons to use in the app.
+
+I pushed by code to Github and hosted it on Netlify.  It's a winning combination! 
+
+**Thoughts:** I'm falling in love with JavaScript!  I'm should make a cheatsheet for creating repos and adding to them as I sometimes get the order wrong. 
+
+**Link to resource:** [Weather Icons](https://erikflowers.github.io/weather-icons/)
+**Link to work:** [Weather App - BETA](https://romantic-shaw-ca5805.netlify.com)
 
 <!-- ### Day 1: June 27, Monday
 
